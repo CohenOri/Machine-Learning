@@ -1,1 +1,1 @@
-Implementations of few machine learning algorithms
+Implementations of few basic machine learning algorithms
